@@ -2,9 +2,9 @@
 # 11/05/2020
 
 #variables
-#$source = "C:\Users\Ewen.Robinson\OneDrive - Libraries Unlimited South West\Documents\Backups"
-$source = "C:\Users\ewen.admin\.networkassistant\backups\"
-#$source = "C:\SwitchBackups\"
+
+$source = "C:\Users\xxxxxxx\.networkassistant\backups\"
+
 $target = "C:\TempPath\"
 $pattern = "startup-config"
 $record = $false
